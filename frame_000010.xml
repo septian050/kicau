@@ -1,0 +1,19 @@
+<annotation>
+  <folder>frames</folder>
+  <filename>frame_000010.jpg</filename>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>right</name>  <!-- label tangan: right/left/hand/person/face -->
+    <bndbox>
+      <xmin>456</xmin><ymin>210</ymin><xmax>612</xmax><ymax>460</ymax>
+    </bndbox>
+    <landmarks>
+      <landmark id="0"><x>0.512345</x><y>0.423111</y><z>-0.021000</z></landmark>
+      <!-- ... -->
+    </landmarks>
+  </object>
+</annotation>
